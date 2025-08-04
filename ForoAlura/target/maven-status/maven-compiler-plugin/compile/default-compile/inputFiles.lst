@@ -1,0 +1,13 @@
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\controller\AuthController.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\controller\TopicoController.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\ForoAluraApplication.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\model\Topico.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\model\Usuario.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\repository\TopicoRepository.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\repository\UsuarioRepository.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\security\CustomUserDetailsService.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\security\JwtFilter.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\security\JwtUtil.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\security\SecurityConfig.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\service\TopicoService.java
+E:\Imágenes\Alurajava\ForoAlura\src\main\java\com\foroalura\service\UsuarioService.java
